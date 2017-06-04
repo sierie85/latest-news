@@ -1,0 +1,14 @@
+html, body {
+	font-family: 'Kameron', serif;
+}
+.App-header {
+  color: #333;
+  margin-bottom: 2em;
+  padding: 1em 0;
+}
+.news-single {
+	margin-bottom: 2em;
+}
+.card-title {
+	word-break: normal;
+}
